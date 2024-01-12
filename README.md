@@ -1,5 +1,5 @@
-# community
-Public feedback and discussion for [hony.ai](https://hony.ai)
+# Community
+This is the community repository for [hony.ai](https://hony.ai). Feel free to report an issue or start a discussion.
 
 ## FAQ
 
