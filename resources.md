@@ -1,4 +1,4 @@
-# App ideas
+# App Resources & ideas
 This is a collection of resources and ideas to build an app with [HonyAi](https://hony.ai)
 
 List of ideas:
