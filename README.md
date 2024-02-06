@@ -52,3 +52,17 @@ export const TestComponent = () => {
 }
 
 ```
+
+### How Do I get my App featured on HonyAi?
+
+Make a post on Twitter, Instagram, Tiktok and Linkedin. Please include a screenshot (or a video) of your app, a short description and the published link. Don't forget to tag our social media account by adding "@hony_ai #honyai" to your post. We will promote interesting apps on our social media accounts (See below for the links) and our [app store](https://hony.app).
+
+Social Media links:
+- https://twitter.com/hony_ai
+- https://www.instagram.com/hony_ai/
+- https://www.tiktok.com/@hony_ai
+- https://www.youtube.com/channel/UCYk6ewEXqbx51bUhxHTMnCA
+- https://discord.gg/t2FPecjWyH
+- https://www.linkedin.com/company/hony-ai
+- https://github.com/hony-ai/community
+
