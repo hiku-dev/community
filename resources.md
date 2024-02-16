@@ -1,14 +1,14 @@
 # App Resources & ideas
-This is a collection of resources and ideas to build an app with [HonyAi](https://hony.ai).
-Have a look at our [App Store](https://hony.app/) to see featured apps.
+This is a collection of resources and ideas to build an app with [HikuDev](https://hiku.dev).
+Have a look at our [App Store](https://hiku.app/) to see featured apps.
 
 
 
 
 List of ideas:
-- [Ask Offline GPT store for ideas](https://uneven-macaw-bef2.hony.app/app/chat/I%20will%20input%20my%20areas%20of%20interest%20in%20the%20following%20prompts%20and%20you%20will%20generate%205%20ideas%20for%20an%20app%20within%20my%20areas%20of%20interest)
+- [Ask Offline GPT store for ideas](https://uneven-macaw-bef2.hiku.app/app/chat/I%20will%20input%20my%20areas%20of%20interest%20in%20the%20following%20prompts%20and%20you%20will%20generate%205%20ideas%20for%20an%20app%20within%20my%20areas%20of%20interest)
 - A workout App with ability to add new workouts that are saved in local storage
-  - [Workout App](https://misleading-hummingbird-c67e.hony.app/app/)
+  - [Workout App](https://misleading-hummingbird-c67e.hiku.app/app/)
 
 
 ## Virtual Reality / Augmented Reality
